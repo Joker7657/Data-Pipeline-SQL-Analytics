@@ -1,0 +1,11 @@
+customer_id,name,country,signup_date
+1,Alice Smith,USA,2023-01-14
+2,Bob Jones,Canada,2023-02-03
+3,Carla Nunes,Brazil,2023-03-19
+4,Diego Torres,Mexico,2023-04-22
+5,Emma Rossi,Italy,2023-05-01
+6,Fiona Lee,Singapore,2023-05-18
+7,George Patel,India,2023-06-07
+8,Helen Zhao,China,2023-06-20
+9,Ian Brown,UK,2023-07-02
+10,Julia Meyer,Germany,2023-07-28

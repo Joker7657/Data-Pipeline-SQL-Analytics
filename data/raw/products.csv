@@ -1,0 +1,9 @@
+product_id,name,category,unit_price
+101,Data Lake Storage,Infrastructure,0.12
+102,Streaming Connect,Integration,0.35
+103,ETL Orchestrator,Platform,1.10
+104,Analytics Pro,Analytics,0.90
+105,Dashboard Studio,Analytics,0.55
+106,ML Features,ML,1.25
+107,Data Quality Suite,Governance,0.75
+108,API Gateway,Integration,0.45
